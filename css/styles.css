@@ -102,7 +102,7 @@ header{
 #bg:after, #bg2:after, #bg3:after, #bg5:after  {
   content: "";
   position: absolute;
-  top: 800px;
+  top: 718px;
   left: 0;
   height: 100px;
   width: 100%;
@@ -266,7 +266,7 @@ h2.blocktext {
     text-align: center;
     font-family: 'Permanent Marker', cursive;
     font-size: 2em;
-        z-index: 4;    
+        z-index: 6;    
 }
 
 .row h2{
@@ -641,7 +641,7 @@ footer{
 }
 
 #bg:after, #bg2:after, #bg3:after, #bg5:after  {
-  top: 400px;
+  top: 380px;
   height: 30px;
  
   
